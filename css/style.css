@@ -1,0 +1,92 @@
+form {
+    width: 500px;
+}
+
+.row {
+    display: block;
+}
+
+.panel {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+    box-shadow: 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+.panel-body {
+    padding: 15px;
+}
+
+.p-t-10 {
+    padding-top: 10px !important;
+}
+
+.media-main a.pull-left {
+    width: 100px;
+}
+
+.media-main .info h4 {
+    padding-top: 10px;
+    margin-bottom: 5px;
+}
+
+.h4, h4 {
+    font-size: 18px;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.1;
+    color: inherit;
+}
+
+.text-muted {
+    color: #777;
+}
+
+.pull-left {
+    float: left !important;
+}
+
+.pull-right {
+    float: right !important;
+}
+
+.comments {
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Параметры тени */
+    padding: 10px;
+}
+
+.comments-form {
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); /* Параметры тени */
+    padding: 10px;
+}
+
+.mic-info {
+    color: #666666;
+    font-size: 11px;
+}
+
+.mesage_error {
+    color: #cc0000;
+}
+
+.success_message {
+    color: green;
+}
+
+li.list-group-item:hover {
+    background-color: rgba(86, 61, 124, .1);
+}
+
+li.list-group-item {
+    border-radius: 0;
+    border: 0;
+    border-top: 1px solid #ddd;
+}
+
+.action {
+    margin-top: 5px;
+}
